@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Mathematical strories
 
-You can use the [editor on GitHub](https://github.com/andrejbauer/mathematical-stories/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Every day we publish a new exciting story about mathematics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have a special section about [limits](./limits.md).
 
 ### Markdown
 
